@@ -1,2 +1,0 @@
-# apiview
-api view
